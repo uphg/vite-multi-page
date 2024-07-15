@@ -20,5 +20,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["common", "packages"]
+  "include": ["shared", "packages"]
 }
